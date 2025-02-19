@@ -1,0 +1,12 @@
+git --global user.name PedroAntunes19
+git --global user.email pedroantunes480@gmail.com
+
+Abrir o terminal:Ctrl + '
+
+Criar um projeto React Native com Expo:
+npx create-expo-app@latest SilvinhaHealthApp --template blank
+
+cd SilvinhaHealthApp
+
+Executar o projeto:
+npx expo start 
