@@ -1,5 +1,5 @@
-git --global user.name PedroAntunes19
-git --global user.email pedroantunes480@gmail.com
+git config --global user.name PedroAntunes19
+git config --global user.email pedroantunes480@gmail.com
 
 Abrir o terminal:Ctrl + '
 
