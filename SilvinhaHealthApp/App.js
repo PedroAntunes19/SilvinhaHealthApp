@@ -28,7 +28,7 @@ export default function App() {
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.titlecontainer}>
-       <Text style={styles.title}>Silvinha Health App</Text>
+       <Text style={styles.title}>Silvinha HealthApp</Text>
       </View>
       <View style={styles.content}>
        <Text style={styles.subtitle}>Calculadora de IMC</Text>
